@@ -8,7 +8,7 @@ You will load a completed tic-tac-toe game from a string into a 2d array of char
 ## Instructions
 * Complete the method `fillGame`. The method receives a completed game as a String and needs to fill the `game` array appropriately.
 * Complete the method `printGame`. This method should print the completed game. See the sample output below.
-* Complete the method `getWinner`. This method should return a string saying who the winner is and in which direction. See teh sample output below.
+* Complete the method `getWinner`. This method should return a string saying who the winner is and in which direction. See the sample output below.
 * You do not need to edit the `main` method.
 * Complete all javadoc comment with the proper tags.
 
